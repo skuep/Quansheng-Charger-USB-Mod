@@ -1182,7 +1182,7 @@
     (property "Value" "LEDG" (id 1) (at 89.535 158.2419 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm" (id 2) (at 82.55 153.67 0)
+    (property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" (id 2) (at 82.55 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 82.55 153.67 0)
@@ -1621,7 +1621,7 @@
     (property "Value" "LEDCOM" (id 1) (at 102.87 158.2419 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm" (id 2) (at 95.25 153.67 0)
+    (property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" (id 2) (at 95.25 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 95.25 153.67 0)
@@ -1739,7 +1739,7 @@
     (property "Value" "LEDR" (id 1) (at 115.57 158.2419 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm" (id 2) (at 107.95 153.67 0)
+    (property "Footprint" "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm" (id 2) (at 107.95 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 107.95 153.67 0)
@@ -2323,13 +2323,13 @@
       (reference "TP2") (unit 1) (value "BAT-") (footprint "Project:SPRING-CONTACT")
     )
     (path "/0b1e8daa-8973-47e8-8595-f8d419b95fe2"
-      (reference "TP3") (unit 1) (value "LEDG") (footprint "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm")
+      (reference "TP3") (unit 1) (value "LEDG") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
     (path "/782afd3c-6d72-4b56-b920-abee4f952e3f"
-      (reference "TP4") (unit 1) (value "LEDCOM") (footprint "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm")
+      (reference "TP4") (unit 1) (value "LEDCOM") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
     (path "/915ea535-5e0d-43e5-b5e7-328475f0c92a"
-      (reference "TP5") (unit 1) (value "LEDR") (footprint "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm")
+      (reference "TP5") (unit 1) (value "LEDR") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
     (path "/96508769-302b-4163-a45b-8e9837193608"
       (reference "U1") (unit 1) (value "IP2326") (footprint "Package_DFN_QFN:HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm")
