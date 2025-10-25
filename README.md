@@ -6,9 +6,16 @@ This is a mod for the original Quansheng (UV-K5) charging cradle so you can char
 # Order at JLCPCB
 Use the production files in the kicad folder to directly order at JLCPCB.
 
-Choose 1.6mm PCB thickness, LeadFree HASL, enable "PCB Assembly" with "Economic" type.
-
-Continue and upload BOM/CPL files. Make sure all parts are selected for placement.
+- Upload [GERBER-quansheng-usb-charger.zip](kicad/quansheng-usb-charger/jlcpcb/production_files/GERBER-quansheng-usb-charger.zip?raw=true) to JLCPCB.
+- Choose 1.6mm PCB thickness, LeadFree HASL
+- Enable "PCB Assembly" with "Economic" type. Select "Tooling Holes Added by Customer"
+- Press NEXT button
+- Upload [BOM-quansheng-usb-charger.csv](kicad/quansheng-usb-charger/jlcpcb/production_files/BOM-quansheng-usb-charger.csv?raw=true) and [CPL-quansheng-usb-charger.csv](kicad/quansheng-usb-charger/jlcpcb/production_files/CPL-quansheng-usb-charger.csv?raw=true) files. 
+- Press Continue for the Error message of some missing parts (It's okay). 
+- **Make sure all parts are selected for placement** and Press Next
+- Check Placement and Press Next
+- Select Production Description (e.g. Smart Products and Accessories -> Charger)
+- Save To Cart 
 
 # Assemble
 1. Buy a new Quansheng UV-K5 charging cradle from AliExpress, if you want to keep your current one
